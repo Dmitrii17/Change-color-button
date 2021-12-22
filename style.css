@@ -1,0 +1,13 @@
+.red {
+    color: rgba(235, 241, 235, 0.794);
+    background-color: red;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.change {
+    background-color: rgb(228, 183, 36);
+    color: rgba(235, 241, 235, 0.794);
+    padding: 15px;
+    text-decoration: none;
+}
